@@ -1,0 +1,6 @@
+Created a data base of cars and trucks that are at a dealarship.
+
+Reads in vehicles from a txt file adding them to the data base.
+  
+Entry format:
+  Type(Truck/Car) ID(String) Year(#) Make(String) model(string) color axels(#) Weight(#)
