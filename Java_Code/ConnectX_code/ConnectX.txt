@@ -1,0 +1,4 @@
+A Project where we had to create a connect four like game.
+      variable number of rows and columns: 3 - 100
+      variable number of tokens in a line needed to win: 3 - 25, less than number of columns and rows
+      variable number of players: 2 - 10
