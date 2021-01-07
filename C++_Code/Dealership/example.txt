@@ -1,0 +1,11 @@
+truck t11345 2000 International 9500 Gray 4 52000
+car c111422 2014 Toyota Corolla White 2
+car c22222 2007 Buick LaSabre Red 4
+car c33355 2014 Ford Mustang Black 4
+car c33784 2016 Buick LaCrosse Pearl 4
+truck t33444 2015 Chevrolet Silverado Blue 6 6700
+truck t44577 2000 International 9500 Gray 5 56125
+car c44223 2016 Nissan Maxima Pearl 2
+truck t55221 2014 Toyota Tundra Platinum 6 6800
+car c52323 2016 Honda Accord Silver 4
+truck t66778 2015 Nissan Titan brown 4 6276
